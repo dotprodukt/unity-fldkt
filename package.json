@@ -1,0 +1,9 @@
+{
+    "name": "com.dotprodukt.unity-fldkt",
+    "description": "A set of tools for doing cool volumetric and implicit surface rendering.",
+    "version": "0.0.0-preview",
+    "unity": "2018.1",
+    "displayName": "FLDKT",
+    "dependencies": {
+    }
+}
