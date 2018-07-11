@@ -1,0 +1,11 @@
+{
+    "name": "com.dotprodukt.unity-fldkt.Editor",
+    "references": [
+        "com.dotprodukt.unity-fldkt.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
