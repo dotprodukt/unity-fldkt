@@ -1,6 +1,8 @@
 #ifndef __SDFBASE_HLSL__
 #define __SDFBASE_HLSL__
 
+#define UNITY_SAMPLE_FULL_SH_PER_PIXEL 1
+
 #include "HLSLSupport.cginc"
 #include "UnityShaderVariables.cginc"
 #include "UnityCG.cginc"
